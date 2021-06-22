@@ -1,0 +1,14 @@
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\bin\Debug\Calculator.application
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+D:\plymoth 2nd yr 2nd sem\to git hub\c# cal\Calculator\Calculator\obj\Debug\Calculator.application
